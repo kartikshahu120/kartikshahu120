@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 👋 Hello! I'm Kartik Shahu<br>I'm a passionate and results-driven software developer specializing in C, C++, Java, and Web Development.<br>I love building scalable, efficient, and impactful solutions that solve real-world problems.<br><br>🚀 My GitHub showcases my best projects, open-source contributions, and my continuous learning journey.<br>I'm currently seeking exciting opportunities as a Java Developer, looking to collaborate with innovative teams and grow further as a developer.
 
 
